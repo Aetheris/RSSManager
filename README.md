@@ -1,0 +1,4 @@
+RSSManager
+==========
+
+Projet RSSManager
